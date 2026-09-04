@@ -1,0 +1,7 @@
+{
+  "name": "KrishiBazar",
+  "description": "Farmer-to-Buyer Agricultural Marketplace connecting rural farmers with urban buyers in Bangladesh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
